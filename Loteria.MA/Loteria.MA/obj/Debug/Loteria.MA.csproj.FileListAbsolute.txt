@@ -1,0 +1,11 @@
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\bin\Debug\Loteria.MA.exe.config
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\bin\Debug\Loteria.MA.exe
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\bin\Debug\Loteria.MA.pdb
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\bin\Debug\Dominio.dll
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\bin\Debug\Dominio.pdb
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\obj\Debug\Loteria.MA.csprojResolveAssemblyReference.cache
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\obj\Debug\Loteria.MA.MegaSena.resources
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\obj\Debug\Loteria.MA.Properties.Resources.resources
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\obj\Debug\Loteria.MA.csproj.GenerateResource.Cache
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\obj\Debug\Loteria.MA.exe
+c:\users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Loteria.MA\obj\Debug\Loteria.MA.pdb

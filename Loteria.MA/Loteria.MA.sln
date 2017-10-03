@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loteria.MA", "Loteria.MA\Loteria.MA.csproj", "{3477B761-3106-4AB2-AD33-52DC7074E40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{CF65C935-DC0D-43B2-BCF7-DC03B7D6012A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3477B761-3106-4AB2-AD33-52DC7074E40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3477B761-3106-4AB2-AD33-52DC7074E40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3477B761-3106-4AB2-AD33-52DC7074E40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3477B761-3106-4AB2-AD33-52DC7074E40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF65C935-DC0D-43B2-BCF7-DC03B7D6012A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF65C935-DC0D-43B2-BCF7-DC03B7D6012A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF65C935-DC0D-43B2-BCF7-DC03B7D6012A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF65C935-DC0D-43B2-BCF7-DC03B7D6012A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

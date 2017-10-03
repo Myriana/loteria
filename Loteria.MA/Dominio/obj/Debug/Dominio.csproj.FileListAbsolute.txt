@@ -1,0 +1,5 @@
+c:\Users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Dominio\bin\Debug\Dominio.dll
+c:\Users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Dominio\bin\Debug\Dominio.pdb
+c:\Users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+c:\Users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Dominio\obj\Debug\Dominio.dll
+c:\Users\myriana.almeida\documents\visual studio 2015\Projects\Loteria.MA\Dominio\obj\Debug\Dominio.pdb
